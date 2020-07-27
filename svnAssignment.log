@@ -1,0 +1,26 @@
+Script started on Sun Jul 26 15:41:43 2020
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro ~ % [K[?2004hmmkdir svnassignment[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro ~ % [K[?2004hssvnadmin create /Users/spjennie/sn vnadd  ssignsment     ment[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro ~ % [K[?2004hssvn checkout file//  :///Users/spjennie/svnassignme [Knnt[?2004l
+Checked out revision 0.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro ~ % [K[?2004hssvn add locations.txt[?2004l
+svn: E155007: '/Users/spjennie' is not a working copy
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro ~ % [K[?2004hssvn a  s  ccd ass   sn vnassignment[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie/svnassignment[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro svnassignment % [K[?2004hssvn add locations.txt[?2004l
+A         locations.txt
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie/svnassignment[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro svnassignment % [K[?2004hssvn status[?2004l
+?       README.txt
+?       conf
+?       db
+?       format
+?       hooks
+A       locations.txt
+?       locks
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie/svnassignment[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro svnassignment % [K[?2004hssvn commit -m"  "added locations         new file       filed"[?2004l
+Adding         locations.txt
+Transmitting file data .done
+Committing transaction...
+Committed revision 1.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie/svnassignment[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro svnassignment % [K[?2004heexit[?2004l
+
+Script done on Sun Jul 26 15:44:29 2020

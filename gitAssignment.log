@@ -1,0 +1,92 @@
+Script started on Thu Jul 23 21:50:52 2020
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro ~ % [K[?2004hccd ass   gitassignment[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie/gitassignment[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro gitassignment % [K[?2004hggit init[?2004l
+Initialized empty Git repository in /Users/spjennie/gitassignment/.git/
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie/gitassignment[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro gitassignment % [K[?2004hggit add .vegetables.txt                   g  ggit status[?2004l
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31mvegetables.txt[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie/gitassignment[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro gitassignment % [K[?2004haadd  a  ggit add .vegetables.txt[?2004l
+fatal: pathspec '.vegetables.txt' did not match any files
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie/gitassignment[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro gitassignment % [K[?2004hggitadd    add.vegeta b bles[?2004l
+git: 'add.vegetables' is not a git command. See 'git --help'.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie/gitassignment[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro gitassignment % [K[?2004hggit status[?2004l
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31mvegetables.txt[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie/gitassignment[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro gitassignment % [K[?2004hggit add .[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie/gitassignment[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro gitassignment % [K[?2004hggit status[?2004l
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	[32mnew file:   vegetables.txt[m
+
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie/gitassignment[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro gitassignment % [K[?2004hggit commit -m "added fil   ne   new gil   file"[?2004l
+[master (root-commit) 95da9e8] added new file
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 vegetables.txt
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie/gitassignment[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro gitassignment % [K[?2004hggit status[?2004l
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   vegetables.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie/gitassignment[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro gitassignment % [K[?2004hggit add vegetables.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie/gitassignment[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro gitassignment % [K[?2004hggit commit -m "added carrot"[?2004l
+[master 88da6fa] added carrot
+ 1 file changed, 1 insertion(+)
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie/gitassignment[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro gitassignment % [K[?2004hggit commit[?2004l
+On branch master
+nothing to commit, working tree clean
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie/gitassignment[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro gitassignment % [K[?2004hggit status[?2004l
+On branch master
+nothing to commit, working tree clean
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie/gitassignment[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro gitassignment % [K[?2004hi ggit status[?2004l
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   vegetables.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie/gitassignment[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro gitassignment % [K[?2004hi ggit commit -m "added peas"[?2004l
+On branch master
+Changes not staged for commit:
+	[31mmodified:   vegetables.txt[m
+
+no changes added to commit
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie/gitassignment[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro gitassignment % [K[?2004hggit add vegetables.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie/gitassignment[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro gitassignment % [K[?2004hggit commit -m "added peas"[?2004l
+[master 45da8b0] added peas
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie/gitassignment[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro gitassignment % [K[?2004hggit co mmit[?2004l
+On branch master
+nothing to commit, working tree clean
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie/gitassignment[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro gitassignment % [K[?2004hggit status[?2004l
+On branch master
+nothing to commit, working tree clean
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Jennies-MacBook-Pro.local/Users/spjennie/gitassignment[0m[27m[24m[Jspjennie@Jennies-MacBook-Pro gitassignment % [K[?2004heexit[?2004l
+
+Script done on Thu Jul 23 22:03:28 2020
